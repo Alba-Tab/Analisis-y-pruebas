@@ -1,7 +1,7 @@
 # 🧪 Proyecto: API del Clima + Registro de Encuestas
 
 Este proyecto combina una API con Flask para consultar el clima y un sistema de registro de encuestas que almacena datos en archivos `.csv` y `.json`. Además, permite analizar los datos usando `pandas`.
-
+Tambien usamos `numpy`
 ---
 
 ## 🚀 Cómo iniciar el proyecto
