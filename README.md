@@ -34,7 +34,10 @@ pip install -r requirements.txt
 ```bash
 pip install flask requests pandas
 ```
-
+>Tambien luego puedes crear tu archivo requirements con:
+```
+pip freeze > requirements.txt
+```
 ---
 
 ## 🧪 Ejecutar la API de clima
