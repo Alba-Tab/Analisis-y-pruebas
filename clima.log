@@ -1,0 +1,36 @@
+2025-04-10 11:24:53,386 - INFO - Servidor Flask iniciado
+2025-04-10 11:24:53,403 - WARNING -  * Debugger is active!
+2025-04-10 11:24:53,405 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 11:24:55,493 - INFO -  * Detected change in 'D:\\Universidad\\Python\\app.py', reloading
+2025-04-10 11:24:56,116 - INFO - Servidor Flask iniciado
+2025-04-10 11:24:56,134 - WARNING -  * Debugger is active!
+2025-04-10 11:24:56,137 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 11:25:05,399 - INFO -  * Detected change in 'D:\\Universidad\\Python\\app.py', reloading
+2025-04-10 11:25:06,059 - INFO - Servidor Flask iniciado
+2025-04-10 11:25:06,076 - WARNING -  * Debugger is active!
+2025-04-10 11:25:06,079 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 11:25:24,474 - INFO - Consulta recibida para la ciudad: La Paz
+2025-04-10 11:25:25,049 - ERROR - Ciudad no encontrada o error HTTP (La Paz): 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=La%20Paz&appid=tu_clave_api_aqui&units=metric&lang=es
+2025-04-10 11:25:25,050 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:25] "[33mGET /clima?ciudad=La%20Paz HTTP/1.1[0m" 404 -
+2025-04-10 11:25:47,367 - INFO - Servidor Flask iniciado
+2025-04-10 11:25:47,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 11:25:47,391 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 11:25:47,392 - INFO -  * Restarting with stat
+2025-04-10 11:25:47,976 - INFO - Servidor Flask iniciado
+2025-04-10 11:25:47,992 - WARNING -  * Debugger is active!
+2025-04-10 11:25:47,994 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 11:25:53,820 - INFO - Consulta recibida para la ciudad: La Paz
+2025-04-10 11:25:54,323 - ERROR - Ciudad no encontrada o error HTTP (La Paz): 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=La%20Paz&appid=tu_clave_api_aqui&units=metric&lang=es
+2025-04-10 11:25:54,324 - INFO - 127.0.0.1 - - [10/Apr/2025 11:25:54] "[33mGET /clima?ciudad=La%20Paz HTTP/1.1[0m" 404 -
+2025-04-10 11:28:28,672 - INFO -  * Detected change in 'D:\\Universidad\\Python\\app.py', reloading
+2025-04-10 11:28:28,712 - INFO -  * Restarting with stat
+2025-04-10 11:28:29,333 - INFO - Servidor Flask iniciado
+2025-04-10 11:28:29,350 - WARNING -  * Debugger is active!
+2025-04-10 11:28:29,352 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 11:28:32,282 - INFO - Consulta recibida para la ciudad: La Paz
+2025-04-10 11:28:32,798 - INFO - Respuesta enviada para La Paz: {'ciudad': 'La Paz', 'temperatura': 12.99, 'descripcion': 'nubes dispersas'}
+2025-04-10 11:28:32,799 - INFO - 127.0.0.1 - - [10/Apr/2025 11:28:32] "GET /clima?ciudad=La%20Paz HTTP/1.1" 200 -
+2025-04-10 11:28:37,127 - INFO - Consulta recibida para la ciudad: La Paz
+2025-04-10 11:28:37,635 - INFO - Respuesta enviada para La Paz: {'ciudad': 'La Paz', 'temperatura': 12.99, 'descripcion': 'nubes dispersas'}
+2025-04-10 11:28:37,636 - INFO - 127.0.0.1 - - [10/Apr/2025 11:28:37] "GET /clima?ciudad=La%20Paz HTTP/1.1" 200 -

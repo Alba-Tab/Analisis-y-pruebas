@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "alba",
+        "edad": 23,
+        "ciudad": "madrid"
+    },
+    {
+        "nombre": "gar",
+        "edad": 54,
+        "ciudad": "Valencia"
+    },
+    {
+        "nombre": "marta",
+        "edad": 45,
+        "ciudad": "Barcelona"
+    },
+    {
+        "nombre": "pablo",
+        "edad": 23,
+        "ciudad": "Bilbao"
+    },
+    {
+        "nombre": "laura",
+        "edad": 34,
+        "ciudad": "Granada"
+    },
+    {
+        "nombre": "javier",
+        "edad": 29,
+        "ciudad": "Zaragoza"
+    },
+    {
+        "nombre": "marta",
+        "edad": 45,
+        "ciudad": "Barcelona"
+    }
+]
