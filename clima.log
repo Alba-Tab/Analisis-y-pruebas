@@ -34,3 +34,15 @@
 2025-04-10 11:28:37,127 - INFO - Consulta recibida para la ciudad: La Paz
 2025-04-10 11:28:37,635 - INFO - Respuesta enviada para La Paz: {'ciudad': 'La Paz', 'temperatura': 12.99, 'descripcion': 'nubes dispersas'}
 2025-04-10 11:28:37,636 - INFO - 127.0.0.1 - - [10/Apr/2025 11:28:37] "GET /clima?ciudad=La%20Paz HTTP/1.1" 200 -
+2025-04-10 15:26:20,082 - INFO - Servidor Flask iniciado
+2025-04-10 15:26:20,135 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 15:26:20,135 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 15:26:20,137 - INFO -  * Restarting with stat
+2025-04-10 15:26:20,719 - INFO - Servidor Flask iniciado
+2025-04-10 15:26:20,735 - WARNING -  * Debugger is active!
+2025-04-10 15:26:20,737 - INFO -  * Debugger PIN: 241-973-410
+2025-04-10 15:26:23,340 - INFO - Consulta recibida para la ciudad: La Paz
+2025-04-10 15:26:23,941 - INFO - Respuesta enviada para La Paz: {'ciudad': 'La Paz', 'temperatura': 14.99, 'descripcion': 'muy nuboso'}
+2025-04-10 15:26:23,943 - INFO - 127.0.0.1 - - [10/Apr/2025 15:26:23] "GET /clima?ciudad=La%20Paz HTTP/1.1" 200 -
+2025-04-10 15:26:23,987 - INFO - 127.0.0.1 - - [10/Apr/2025 15:26:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
